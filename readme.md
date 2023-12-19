@@ -3,7 +3,6 @@
 ## 1. 基本信息
 
 - 作者: GMCY
-- 网站: [个人博客-测试](https://gmcy2020.github.io/Vue-PersonalBlog-Test/)
 - 话题(GitHub): [vue](https://github.com/topics/vue)
 - 创建时间: 2023/06/13
 
